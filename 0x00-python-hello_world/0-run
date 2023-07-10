@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+pyfile=$PYFILE
+python3 "$pyfile"
