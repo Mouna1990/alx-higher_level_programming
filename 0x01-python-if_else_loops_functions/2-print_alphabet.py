@@ -1,2 +1,5 @@
 #!/usr/bin/python3
-print("abcdefghijklmnopqrstuvwxyz")
+import string
+
+for i in string.ascii_lowercase:
+    print(i)
